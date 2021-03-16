@@ -9,11 +9,11 @@ Here is a function with two parameters, param1 and param2, and also an arguments
 
 **Example**
 
-function mathsFun(param1, param2) {
+function doSomeMaths(param1, param2) {
   console.log(param1 * param2);
 }
 
-mathsFun(45, 2);
+doSomeMaths(45, 2);
 
 param1 & param2 are function parameters while 45 & 2 are function arguments.
 
