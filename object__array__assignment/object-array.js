@@ -18,12 +18,12 @@ const user = {
         religion: 'Christianity',
         nationality: 'Nigeria',
         address: {
-            street1:'Adesanya st',
-            street2:'Munir',
+            street1:'Adesanya str',
+            street2:'Munir Str',
             city: 'Ajah',
             state: 'Lagos'
         }
-    }
+     }
 }
 
 console.log(user.bodySize)
