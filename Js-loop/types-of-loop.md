@@ -69,7 +69,7 @@ const schools = [
 ]
 
 
-schools.forEach(school => {
+schools.forEach((school => {
   console.log(school.city);
 });
 ~~~
